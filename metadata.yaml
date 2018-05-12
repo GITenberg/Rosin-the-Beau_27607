@@ -1,0 +1,29 @@
+_repo: Rosin-the-Beau_27607
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27607-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2008-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Maine -- Juvenile fiction'
+- !lcc 'PZ'
+title: Rosin the Beau
+url: http://www.gutenberg.org/ebooks/27607
